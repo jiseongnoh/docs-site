@@ -54,7 +54,7 @@ When your validator is `unjailed` on binance chain, it must wait for the next UT
 Transaction Type  | Pay in BNB |
 -- | -- |
 Unjail A Smart Chain Validator | 1 |
-Submit Byzaitine Behavior Evidence of A Smart Chain Validator | 10 |
+Submit Byzantine Behavior Evidence of A Smart Chain Validator | 10 |
 
 
 ## Commands
